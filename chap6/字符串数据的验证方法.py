@@ -61,4 +61,9 @@ print('Hello你好'.istitle()) # True # 默认中文既是大写，也可以是�
 print('-'*20)
 
 
-# i() 判断字符串的首字母大写
+# isspace() 判断字符串是否是空字符
+print(''.isspace())  # False
+print(' '.isspace())  # True
+print('\t'.isspace()) # True
+print('\n'.isspace()) # True
+print('-'*20)
