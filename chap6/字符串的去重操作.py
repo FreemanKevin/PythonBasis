@@ -6,3 +6,4 @@ for item in s:
         new_s+=item
 print(new_s)
 
+# 方法2：使用索引+not in
