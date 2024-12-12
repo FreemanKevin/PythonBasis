@@ -7,3 +7,5 @@ for item in s:
 print(new_s)
 
 # 方法2：使用索引+not in
+#
+#
